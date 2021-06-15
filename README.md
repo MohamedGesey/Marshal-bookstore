@@ -1,8 +1,10 @@
 <h1>GROUP MEMBERS</h1>
-* HAKIM RUQIYYAH ASMAR ABDUL - 1726340 <br>
-* SHAHRIAR FAHIM - 1734075 <br>
-* MOHAMED MOHAMED AHMED - 1733657 <br>
-* ASYARI AMMAR TAUFIQURRAHMAN - 1728085 <br>
+<ul>
+<li>HAKIM RUQIYYAH ASMAR ABDUL - 1726340 </li>
+<li>SHAHRIAR FAHIM - 1734075 </li>
+<li>MOHAMED MOHAMED AHMED - 1733657 </li>
+<li>ASYARI AMMAR TAUFIQURRAHMAN - 1728085 </li>
+</ul>
 
 <hr>
 <h1>INTRODUCTION</h1>
@@ -21,3 +23,6 @@
 ![view](https://user-images.githubusercontent.com/61781654/121979848-8ba08d00-cdbd-11eb-9f5a-461e27e8a13d.PNG) 
 <hr>
 
+<h1>ERD</h1>
+
+![ERD](https://user-images.githubusercontent.com/61781654/121981625-97da1980-cdc0-11eb-8356-f9b4c52d057f.jpeg)
