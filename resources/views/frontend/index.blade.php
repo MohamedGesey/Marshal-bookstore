@@ -14,7 +14,7 @@
                                         <div class="slider-shape">
                                             <h2 data-swiper-parallax="-500">Amazing Book Store</h2>
                                             <p data-swiper-parallax="-400">Docufiction (or docu-fiction), often confused with docudrama, is the cinematographic combination of documentary and fiction, this term often meaning narrative film.                                            </p>
-                                            <a href="shop.html" data-swiper-parallax="-300">Shop Now</a>
+                                            <a href="/" data-swiper-parallax="-300">Shop Now</a>
                                         </div>
                                     </div>
                                 </div>
@@ -31,7 +31,7 @@
                                         <div class="slider-shape">
                                             <h2 data-swiper-parallax="-500">Buying Book</h2>
                                             <p data-swiper-parallax="-400">A non-fiction novel and a documentary novel are appropriate to describe works that are read like novels</p>
-                                            <a href="shop.html" data-swiper-parallax="-300">Shop Now</a>
+                                            <a href="/" data-swiper-parallax="-300">Shop Now</a>
                                         </div>
                                     </div>
                                 </div>
