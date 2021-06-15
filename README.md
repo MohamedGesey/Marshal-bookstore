@@ -1,6 +1,6 @@
 <h1>DEMO OF THE WEBSITE</h1>
 
-COMPILED VERSION: **SOON** <br><br>
+COMPILED VERSION: *https://drive.google.com/file/d/16DXEljDdlok9G7NQIQxyvjjwFc4oxs61/view?usp=sharing* <br><br>
 RUQIYYAH's PART:
 [CLICK HERE](https://drive.google.com/file/d/18yL5BIdF7TAO45sFWncHUu0P3iF1SAun/view?usp=drivesdk) <br>
 FAHIM's PART: 
@@ -8,10 +8,7 @@ FAHIM's PART:
 Ammar's PART: 
 [CLICK HERE](https://drive.google.com/file/d/1UeSFnM8KlCMwuEyKgK--pEk7fOIgbZl7/view?usp=sharing) <br>
 mohamed's part:
-[click here](https://drive.google.com/file/d/1vVu3zAdYcpmDo1IYa5SM71EQSXBTg_f-/view?usp=sharing) <br>
-FULL VIDEO DEMO:
-[CLICK Here] (https://drive.google.com/file/d/16DXEljDdlok9G7NQIQxyvjjwFc4oxs61/view?usp=sharing) <br>
-<hr>
+[Click Here](https://drive.google.com/file/d/1vVu3zAdYcpmDo1IYa5SM71EQSXBTg_f-/view?usp=sharing) <br>
 <h1>GROUP MEMBERS</h1>
 <ul>
 <li>HAKIM RUQIYYAH ASMAR ABDUL - 1726340 </li>
