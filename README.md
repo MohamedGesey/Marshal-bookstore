@@ -7,3 +7,5 @@
 <hr>
 <h1>FEATURES AND FUNCTIONALITIES</h1>
 <p>The features are login page can allow the customer to buy books, purchase book and customer can show the information and the description of the books, cart page to display books that customer selected, customer also can pay in the payment page. Next, admin can also login to add, view, and remove books. Also, manage the information of the books.</p>
+<hr>
+<h1>VIEWS, CONTROLLER, ROUTES AND MODELS</h1>
