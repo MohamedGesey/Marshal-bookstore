@@ -1,5 +1,12 @@
 <h1>DEMO OF THE WEBSITE</h1>
 
+COMPILED VERSION: **SOON** <br><br>
+RUQIYYAH's PART:
+[CLICK HERE](https://drive.google.com/file/d/18yL5BIdF7TAO45sFWncHUu0P3iF1SAun/view?usp=drivesdk) <br>
+FAHIM's PART: 
+[CLICK HERE](https://drive.google.com/file/d/14mJ-_uSAdPjJlkTK0TU34R6qmzkOOnyd/view?usp=sharing) <br>
+Ammar's PART: 
+[CLICK HERE](https://drive.google.com/file/d/1UeSFnM8KlCMwuEyKgK--pEk7fOIgbZl7/view?usp=sharing) <br>
 <hr>
 <h1>GROUP MEMBERS</h1>
 <ul>
