@@ -17,6 +17,17 @@ mohamed's part:
   
   ![IMG_9937](https://user-images.githubusercontent.com/55779814/122029582-91b75d80-cdff-11eb-8ed2-c72595da0b5e.jpg)
 <li>SHAHRIAR FAHIM - 1734075 </li>
+  
+  
+  
+  ![WhatsApp Image 2021-06-17 at 4 58 20 PM](https://user-images.githubusercontent.com/55779814/122408605-1b5c5c00-cfb5-11eb-94d7-59980da255ce.jpeg)
+  
+  
+  
+  ![WhatsApp Image 2021-06-17 at 4 58 20 PM (1)](https://user-images.githubusercontent.com/55779814/122408777-35963a00-cfb5-11eb-9722-0fb422938867.jpeg)
+  
+  
+
 <li>MOHAMED MOHAMED AHMED - 1733657 </li>
 <li>ASYARI AMMAR TAUFIQURRAHMAN - 1728085 </li>
   
@@ -28,7 +39,17 @@ mohamed's part:
 
 <ul>
 <li>HAKIM RUQIYYAH ASMAR ABDUL - 1726340 </li>
+   <b>- Admin part where he able to do create, read, update, deleta function</b> <br>
+  <b>- Book model</b> <br>
+  <b>- Back end part:</b> <br>
+    - Edit.blade.php <br>
+    - Index.blade.php <br>
+    - Show.blade.php <br>
+    <b>- GITHUB.</b>
 <li>SHAHRIAR FAHIM - 1734075 </li>
+  <b>- Log in part</b> <br>
+  <b>- Registration part</b> <br>
+  <b>- Authentication</b> <br>
 <li>MOHAMED MOHAMED AHMED - 1733657 </li>
 <li>ASYARI AMMAR TAUFIQURRAHMAN - 1728085 </li>
   <b>- Most of the front end parts</b> <br>
