@@ -24,6 +24,22 @@ mohamed's part:
 </ul>
 
 <hr>
+<h1>WORK DISTRIBUTION</h1>
+
+<ul>
+<li>HAKIM RUQIYYAH ASMAR ABDUL - 1726340 </li>
+<li>SHAHRIAR FAHIM - 1734075 </li>
+<li>MOHAMED MOHAMED AHMED - 1733657 </li>
+<li>ASYARI AMMAR TAUFIQURRAHMAN - 1728085 </li>
+  <b>- Most of the front end parts</b> <br>
+  <b>- Model & bus migration</b> <br>
+  <b>- Back end part:</b> <br>
+    - checkout page where i have to do some calculation function. <br>
+    - Displaying the orders in the Customer/Admin panel. <br>
+  <b>- FINAL REPORT + GITHUB.</b>
+</ul>
+
+<hr>
 <h1>INTRODUCTION</h1>
 <p> An online bookstore software project that serves as a central database for all of the books in stock, as well as their title, author, and price. The aim of this project is to create a website that serves as a central bookstore. The front end of this website is built with HTML,CSS, and the back end is built with PHP. Various book-related information is stored in the sql database. A user visiting the website can find a diverse selection of books organized by category. The user can choose a book and see its price. The user can also use the website to look for unique books.<br></p>
 <hr>
