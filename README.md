@@ -31,7 +31,8 @@ mohamed's part:
 <li>MOHAMED MOHAMED AHMED - 1733657 </li>
 <li>ASYARI AMMAR TAUFIQURRAHMAN - 1728085 </li>
   
-  ![Ammar](https://user-images.githubusercontent.com/61781654/121995096-0034f500-cdd9-11eb-894d-d2886f91b528.PNG)
+  ![4](https://user-images.githubusercontent.com/61781654/122411372-4942a000-cfb7-11eb-84b1-fcaadda3f8d8.PNG)
+
 </ul>
 
 <hr>
@@ -41,7 +42,6 @@ mohamed's part:
 <li>HAKIM RUQIYYAH ASMAR ABDUL - 1726340 </li>
    <b>- Admin part where he able to do create, read, update, deleta function</b> <br>
   <b>- Book model</b> <br>
-   <b>- Model & book migration</b> <br>
   <b>- Back end part:</b> <br>
     - Edit.blade.php <br>
     - Index.blade.php <br>
