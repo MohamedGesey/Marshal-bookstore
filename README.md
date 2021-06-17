@@ -81,3 +81,11 @@ mohamed's part:
 <h1>ERD</h1>
 
 ![ERD](https://user-images.githubusercontent.com/61781654/121981625-97da1980-cdc0-11eb-8356-f9b4c52d057f.jpeg)
+
+<hr>
+
+<h1>REFERENCES</h1>
+
+<ul>
+<li>https://laravel.com/</li>
+  </ul>
