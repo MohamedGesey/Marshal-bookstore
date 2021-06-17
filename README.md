@@ -41,6 +41,7 @@ mohamed's part:
 <li>HAKIM RUQIYYAH ASMAR ABDUL - 1726340 </li>
    <b>- Admin part where he able to do create, read, update, deleta function</b> <br>
   <b>- Book model</b> <br>
+   <b>- Model & book migration</b> <br>
   <b>- Back end part:</b> <br>
     - Edit.blade.php <br>
     - Index.blade.php <br>
@@ -53,7 +54,7 @@ mohamed's part:
 <li>MOHAMED MOHAMED AHMED - 1733657 </li>
 <li>ASYARI AMMAR TAUFIQURRAHMAN - 1728085 </li>
   <b>- Most of the front end parts</b> <br>
-  <b>- Model & bus migration</b> <br>
+  <b>- Model & order migration</b> <br>
   <b>- Back end part:</b> <br>
     - checkout page where i have to do some calculation function. <br>
     - Displaying the orders in the Customer/Admin panel. <br>
